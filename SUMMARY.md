@@ -4,28 +4,28 @@
 
 ## Enumeration
 
-* [Enumeration](Enumeration/readme.md)
+* [Enumeration](Enumeration/README.md)
 
 ## Exploitation
 
-* [Exploitation](exploitation/readme.md)
+* [Exploitation](exploitation/README.md)
 
 ## Privilege Escalation
 
-* [Privilege Escalation](privilege-escalation/test.md)
+* [Privilege Escalation](privilege-escalation/README.md)
 
 ## CTF
 
-* [CTF](test/test.md)
+* [CTF](ctf/README.md)
 
 ## Tools
 
-* [Tools](test/test.md)
+* [Tools](tools/README.md)
 
 ## Evasion
 
-* [Evasion](test/test.md)
+* [Evasion](evasion/README.md)
 
 ## Privacy
 
-* [Privacy](test/test.md)
+* [Privacy](privacy/README.md)
