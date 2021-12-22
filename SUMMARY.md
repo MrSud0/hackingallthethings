@@ -5,7 +5,9 @@
 ## The Company
 
 * [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Meet the Team!](the-company/meet-the-team/README.md)
+  * [Page 1](the-company/meet-the-team/page-1/README.md)
+    * [Page 2](the-company/meet-the-team/page-1/page-2.md)
 
 ## The Formal Stuff
 
