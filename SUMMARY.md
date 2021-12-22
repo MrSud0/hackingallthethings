@@ -4,8 +4,9 @@
 
 ## Enumeration
 
-<<<<<<< HEAD
-* [Enumeration](Enumeration/README.md)
+* [Enumeration](enumeration/enumeration/README.md)
+  * [Page 1](enumeration/enumeration/page-1/README.md)
+    * [Page 2](enumeration/enumeration/page-1/page-2.md)
 
 ## Exploitation
 
@@ -17,11 +18,11 @@
 
 ## CTF
 
-* [CTF](ctf/README.md)
+* [CTF](<ctf/ctf (1).md>)
 
 ## Tools
 
-* [Tools](tools/README.md)
+* [Tools](tools/tools.md)
 
 ## Evasion
 
@@ -30,7 +31,6 @@
 ## Privacy
 
 * [Privacy](privacy/README.md)
-=======
 * [Enumeration](enumeration/enumeration.md)
 
 ## Exploitation
@@ -47,13 +47,12 @@
 
 ## Tools
 
-* [Tools](ctf/ctf.md)
+*
 
 ## Evasion
 
-* [Evasion](ctf/ctf.md)
+*
 
 ## Privacy
 
-* [Privacy](ctf/ctf.md)
->>>>>>> 39be2ca0265b725d6785a4e2ad10a77a1941c2e5
+*
