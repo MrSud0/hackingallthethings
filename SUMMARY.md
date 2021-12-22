@@ -4,9 +4,14 @@
 
 ## Enumeration
 
-* [Enumeration](enumeration/enumeration/README.md)
-  * [Page 1](enumeration/enumeration/page-1/README.md)
-    * [Page 2](enumeration/enumeration/page-1/page-2.md)
+* [Initial info gathering](enumeration/initial-info-gathering/README.md)
+  * [http](enumeration/initial-info-gathering/http/README.md)
+    * [Page 2](enumeration/initial-info-gathering/http/page-2.md)
+* [Post Exploitation](enumeration/post-exploitation.md)
+* [Technology Specific](enumeration/technology-specific/README.md)
+  * [HTTP](enumeration/technology-specific/http/README.md)
+    * [Wordpress](enumeration/technology-specific/http/wordpress.md)
+  * [FTP](enumeration/technology-specific/ftp.md)
 
 ## Exploitation
 
@@ -47,12 +52,6 @@
 
 ## Tools
 
-*
-
 ## Evasion
 
-*
-
 ## Privacy
-
-*
