@@ -4,9 +4,7 @@
 
 ## Enumeration
 
-* [Enumeration](enumeration/enumeration/README.md)
-  * [Page 1](enumeration/enumeration/page-1/README.md)
-    * [Page 2](enumeration/enumeration/page-1/page-2.md)
+* [Enumeration](enumeration/enumeration.md)
 
 ## Exploitation
 
