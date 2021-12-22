@@ -8,11 +8,11 @@
 
 ## Exploitation
 
-* [Exploitation](Exploitation/readme.md)
+* [Exploitation](exploitation/readme.md)
 
 ## Privilege Escalation
 
-* [Privilege Escalation](privilege/test.md)
+* [Privilege Escalation](privilege-escalation/test.md)
 
 ## CTF
 
