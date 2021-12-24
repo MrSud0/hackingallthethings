@@ -14,6 +14,12 @@
     * [Tech1](enumeration/port-scanning/subdomainenumeration/tech1.md)
 * [Active Enumeration](enumeration/sub-domain-enumeration.md)
 
+## Pentesting-Markdown
+* [Passive Enumeration](pentesting_markdown/1-Passive-Enumeration/passive-enumeration-readme.md)
+  * [OSINT](pentesting_markdown/1-Passive-Enumeration/OSINT/OSINT.md)
+* [Active Enumeration](pentesting_markdown/2-Active-Enumeration/active-enumeration-readme.md)
+  * [PortScanning](pentesting_markdown/2-Active-Enumeration/PortScanning/Port-Scanning.md)
+  * [SubDomainEnumeration](pentesting_markdown/2-Active-Enumeration/SubDomainEnumeration/Sub-Domain-Enumeration.md)
 ## Exploitation
 
 * [Exploitation](exploitation/exploitation.md)
