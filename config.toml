@@ -1,4 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://hackingallthethings.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'hackingallthethings'
 theme = 'learn'
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true

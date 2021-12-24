@@ -1,6 +1,6 @@
 ---
-  title: "Penetration Testing notes"
-  weight: 5
+  title: "CTF Notes"
+  weight: 7
   pre: "<b>1. </b>"
   chapter: true
 ---
