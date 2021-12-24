@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome!](README.md)
-  * [OSINT](readme/osint.md)
 
 ## Penetration Testing Notes
 
