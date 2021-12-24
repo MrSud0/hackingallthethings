@@ -3,38 +3,37 @@
 * [Welcome!](README.md)
   * [OSINT](readme/osint.md)
 
-## Enumeration
+## Penetration Testing Notes
 
-* [Enumeration](enumeration/enumeration.md)
-* [Active Enumeration](enumeration/port-scanning/README.md)
-  * [PortScanning](enumeration/port-scanning/portscanning/README.md)
-    * [Netcat](enumeration/port-scanning/portscanning/netcat.md)
-    * [Nmap](enumeration/port-scanning/portscanning/nmap.md)
-  * [SubDomainEnumeration](enumeration/port-scanning/subdomainenumeration/README.md)
-    * [Tech1](enumeration/port-scanning/subdomainenumeration/tech1.md)
-* [Active Enumeration](enumeration/sub-domain-enumeration.md)
+* [Passive Enumeration](penetration-testing-notes/sub-domain-enumeration/README.md)
+  * [OSINT](penetration-testing-notes/sub-domain-enumeration/osint.md)
+* [Active Enumeration](penetration-testing-notes/port-scanning/README.md)
+  * [PortScanning](penetration-testing-notes/port-scanning/portscanning/README.md)
+    * [Netcat](penetration-testing-notes/port-scanning/portscanning/netcat.md)
+    * [Nmap](penetration-testing-notes/port-scanning/portscanning/nmap.md)
+  * [SubDomainEnumeration](penetration-testing-notes/port-scanning/subdomainenumeration/README.md)
+    * [Tech1](penetration-testing-notes/port-scanning/subdomainenumeration/tech1.md)
+  * [Per protocol](penetration-testing-notes/port-scanning/per-protocol/README.md)
+    * [HTTP](penetration-testing-notes/port-scanning/per-protocol/http.md)
 
-## Pentesting-Markdown
-* [Pentesting Markdown](pentesting_markdown/README.md)
-* [Passive Enumeration](pentesting_markdown/1-Passive-Enumeration/passive-enumeration-readme.md)
-  * [OSINT](pentesting_markdown/1-Passive-Enumeration/OSINT/OSINT.md)
-* [Active Enumeration](pentesting_markdown/2-Active-Enumeration/active-enumeration-readme.md)
-  * [PortScanning](pentesting_markdown/2-Active-Enumeration/PortScanning/Port-Scanning.md)
-  * [SubDomainEnumeration](pentesting_markdown/2-Active-Enumeration/SubDomainEnumeration/Sub-Domain-Enumeration.md)
-## Exploitation
+***
 
-* [Exploitation](exploitation/exploitation.md)
+* [Initial Access](initial-access.md)
+* [Post Exploitation Enumeration](post-exploitation-enumeration.md)
+* [Privilege Escalation](privilege-escalation.md)
+* [Lateral Movement](lateral-movement.md)
+* [Defense Evasion](defense-evasion.md)
 
-## Privilege Escalation
+## CTF Specific Tips
 
-* [Privilege Escalation](privilege-escalation/privilege-escalation.md)
+* [Web](ctf-specific-tips/web.md)
+* [CTF](ctf-specific-tips/ctf.md)
+* [Reverse](ctf-specific-tips/reverse.md)
 
-## CTF
+## Privacy Tips
 
-* [CTF](ctf/ctf.md)
+* [Privacy Tips](privacy-tips/privacy-tips.md)
 
-## Tools
+## Tool Specific Tips
 
-## Evasion
-
-## Privacy
+* [Tool Specific Tips](tool-specific-tips/tool-specific-tips.md)
