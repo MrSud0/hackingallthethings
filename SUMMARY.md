@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Welcome! \[WORK IN PROGRESS\]](README.md)
 
 ## Penetration Testing Notes
 
 * [Passive Enumeration](penetration-testing-notes/sub-domain-enumeration/README.md)
-  * [OSINT](penetration-testing-notes/sub-domain-enumeration/osint/README.md)
+  * [OSINT](penetration-testing-notes/sub-domain-enumeration/osint.md)
     * [Google dorking](penetration-testing-notes/sub-domain-enumeration/osint/google-dorking.md)
 * [Active Enumeration](penetration-testing-notes/port-scanning/README.md)
   * [PortScanning](penetration-testing-notes/port-scanning/portscanning/README.md)
@@ -18,24 +18,24 @@
 
 ***
 
-* [Initial Access](initial-access/README.md)
+* [Initial Access](initial-access.md)
   * [Init](initial-access/init.md)
-* [Post Exploitation Enumeration](post-exploitation-enumeration/README.md)
+* [Post Exploitation Enumeration](post-exploitation-enumeration.md)
   * [Init](post-exploitation-enumeration/init.md)
-* [Privilege Escalation](privilege-escalation/README.md)
+* [Privilege Escalation](privilege-escalation.md)
   * [Init](privilege-escalation/init.md)
-* [Lateral Movement](lateral-movement/README.md)
+* [Lateral Movement](lateral-movement.md)
   * [Init](lateral-movement/init.md)
-* [Defense Evasion](defense-evasion/README.md)
+* [Defense Evasion](defense-evasion.md)
   * [Init](defense-evasion/init.md)
 
 ## CTF Specific Tips
 
-* [Web](ctf-specific-tips/web/README.md)
+* [Web](ctf-specific-tips/web.md)
   * [Init](ctf-specific-tips/web/init.md)
-* [CTF](ctf-specific-tips/ctf/README.md)
+* [CTF](ctf-specific-tips/ctf.md)
   * [Init](ctf-specific-tips/ctf/init.md)
-* [Reverse](ctf-specific-tips/reverse/README.md)
+* [Reverse](ctf-specific-tips/reverse.md)
   * [Init](ctf-specific-tips/reverse/init.md)
 
 ## Privacy Tips
