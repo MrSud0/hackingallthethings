@@ -6,12 +6,8 @@
 ## Enumeration
 
 * [Enumeration](enumeration/enumeration.md)
-
-## pentesting\_markdown
-
-* [Passive Enumeration](pentesting\_markdown/1-Passive-Enumeration/OSINT.md)
-* [Active Enumeration](pentesting\_markdown/2-Active-Enumeration/PortScanning/Port-Scanning.md)
-* [Active Enumeration](pentesting\_markdown/2-Active-Enumeration/SubDomainEnumeration/Sub-Domain-Enumeration.md)
+* [Active Enumeration](enumeration/port-scanning.md)
+* [Active Enumeration](enumeration/sub-domain-enumeration.md)
 
 ## Exploitation
 
@@ -27,12 +23,6 @@
 
 ## Tools
 
-*
-
 ## Evasion
 
-*
-
 ## Privacy
-
-*
