@@ -1,6 +1,6 @@
 ---
   title: "SMB"
-  weight: 5
+  weight: 4
   chapter: true
 ---
 SMB TEST
