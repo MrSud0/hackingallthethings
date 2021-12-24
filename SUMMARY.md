@@ -8,10 +8,9 @@
 * [Enumeration](enumeration/enumeration.md)
 
 ## pentesting_markdown
-
-* [pentesting_markdown](enumeration/1/OSINT.md)
-* [pentesting_markdown](enumeration/2/Port-Scanning.md)
-* [pentesting_markdown](enumeration/2/Sub-Domain-Enumeration.md)
+  * [1](pentesting_markdown/1/OSINT.md)
+  * [2](pentesting_markdown/2/Port-Scanning.md)
+  * [2](pentesting_markdown/2/Sub-Domain-Enumeration.md)
 ## Exploitation
 
 * [Exploitation](exploitation/exploitation.md)
