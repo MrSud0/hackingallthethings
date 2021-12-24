@@ -1,3 +1,0 @@
-# Google dorking
-
-google drosk

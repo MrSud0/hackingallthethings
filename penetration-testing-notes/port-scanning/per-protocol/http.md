@@ -1,7 +1,0 @@
----
-description: Http
----
-
-# HTTP
-
-http

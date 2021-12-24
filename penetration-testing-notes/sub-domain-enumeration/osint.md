@@ -1,7 +1,0 @@
----
-description: TEST
----
-
-# OSINT
-
-TEST

@@ -1,3 +1,0 @@
-# Lateral Movement
-
-test
