@@ -8,9 +8,9 @@
 * [Enumeration](enumeration/enumeration.md)
 
 ## pentesting_markdown
-  * [1](pentesting_markdown/1/OSINT.md)
-  * [2](pentesting_markdown/2/Port-Scanning.md)
-  * [2](pentesting_markdown/2/Sub-Domain-Enumeration.md)
+  * [Passive Enumeration](pentesting_markdown/1-Passive-Enumeration/OSINT.md)
+  * [Active Enumeration](pentesting_markdown/2-Active-Enumeration/Port-Scanning.md)
+  * [Active Enumeration](pentesting_markdown/2-Active-Enumeration/Sub-Domain-Enumeration.md)
 ## Exploitation
 
 * [Exploitation](exploitation/exploitation.md)
