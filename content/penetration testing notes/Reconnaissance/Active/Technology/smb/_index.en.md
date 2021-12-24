@@ -1,7 +1,5 @@
 ---
   title: "SMB"
-  weight: 4
-  chapter: true
 ---
 SMB TEST
 https://www.hackingarticles.in/a-little-guide-to-smb-enumeration/nmb

@@ -1,7 +1,5 @@
 ---
   title: "FTP"
-  weight: 2
-  chapter: true
 ---
 # nmap specific scripts for FTP
 

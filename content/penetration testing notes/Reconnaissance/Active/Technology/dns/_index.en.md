@@ -1,7 +1,5 @@
 ---
   title: "DNS"
-  weight: 1
-  chapter: true
 ---
 DNS Records
 

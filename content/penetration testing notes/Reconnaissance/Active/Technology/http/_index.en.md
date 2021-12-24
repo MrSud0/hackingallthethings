@@ -1,7 +1,5 @@
 ---
   title: "HTTP"
-  weight: 3
-  chapter: true
 ---
 nikto -host
 
