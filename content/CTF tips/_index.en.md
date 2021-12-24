@@ -1,6 +1,6 @@
 ---
   title: "CTF Notes"
-  weight: 5
+  weight: 3
   pre: "<b>2. </b>"
   chapter: true
 ---
