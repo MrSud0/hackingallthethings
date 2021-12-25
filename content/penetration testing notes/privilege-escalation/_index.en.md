@@ -1,7 +1,7 @@
 ---
   title: "Privilege Escalation"
-  weight: 3
-  pre: "<b>3. </b>"
+  weight: 4
+  pre: "<b>4. </b>"
   chapter: true
 ---
 blabla
