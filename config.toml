@@ -14,10 +14,12 @@ defaultContentLanguageInSubdir= true
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
+  disableLandingPage = false
   disableLandingPageButton = true
   disableMermaid = false
   customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
   titleSeparator = "::"
+  themeVariant ="red"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
