@@ -4,3 +4,34 @@ title = 'hackingallthethings'
 theme = 'learn'
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
+
+
+
+[params]
+  editURL = "https://github.com/Anihilakos/hackingallthethings"
+  description = "InfoSec notes and tips"
+  author = "Iason Somarakis"
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = false
+  disableLandingPageButton = true
+  disableMermaid = false
+  customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
+  titleSeparator = "::"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+[Languages.en]
+title = "InfoSec notes and tips"
+weight = 1
+languageName = "English"
+landingPageURL = "/en"
+landingPageName = "<i class='fas fa-home'></i> Home"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+identifier = "ds"
+url = "https://github.com/Anihilakos/hackingallthethings"
+weight = 10
