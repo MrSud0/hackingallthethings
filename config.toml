@@ -1,6 +1,6 @@
 baseURL = 'https://hackingallthethings.com'
 languageCode = 'en-us'
-title = 'hackingallthethings'
+title = 'hackingallthethings [WORK IN PROGRESS]'
 theme = 'learn'
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
