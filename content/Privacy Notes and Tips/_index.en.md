@@ -1,6 +1,6 @@
 ---
   title: "Privacy Notes and Tips"
-  weight: 1
+  weight: 4
   pre: "<b>4. </b>"
   chapter: true
 ---

@@ -1,6 +1,6 @@
 ---
   title: "Common InfoSec Tools"
-  weight: 2
+  weight: 3
   pre: "<b>3. </b>"
   chapter: true
 ---
