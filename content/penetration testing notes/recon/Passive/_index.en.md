@@ -1,7 +1,6 @@
 ---
-  title: "Passive Reconnaissance"
-  weight: 5
-  pre: "<b>1. </b>"
+  title: "Passive Recon"
+  weight: 1
   chapter: true
 ---
-blabla
+Passive recon...
