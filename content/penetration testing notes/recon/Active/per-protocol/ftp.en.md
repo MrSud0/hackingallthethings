@@ -10,3 +10,6 @@ wget -m ftp://netmon.htb/ProgramData/Paessler
 
 # PUT
 put
+
+# FTP Code
+ftp code 230 means that anonymous login is allowed
