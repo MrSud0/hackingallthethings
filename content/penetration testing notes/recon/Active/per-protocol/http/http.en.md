@@ -18,6 +18,11 @@
 # Subdomain discovery
 # Username discovery
 #### ffuf
+- w wordlist file Path
+- X method
+- H extra headers
+- u the url
+- mr specifies the text on the page that we are looking to validate that we have a valid username
 `ffuf -w /usr/share/wordlists/SecLists/Usernames/Names/names.txt -X POST -d "username=FUZZ&email=x&password=x&cpassword=x" -H "Content-Type: application/x-www-form-urlencoded" -u http://10.10.93.83/customers/signup -mr "username already exists"`
 
 # HTTPS

@@ -30,3 +30,5 @@ Query type Result
 # Dig
 `dig domain MX`
 `dig @1.1.1.1 domain MX`
+
+# DNSDumpster
