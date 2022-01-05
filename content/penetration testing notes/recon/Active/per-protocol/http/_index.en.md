@@ -1,5 +1,5 @@
 ---
-  title: "http index"
+  title: "HTTP"
   weight: 3
   chapter: true
 ---
