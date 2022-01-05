@@ -1,5 +1,5 @@
 ---
-  title: "HTTP Requests"
+  title: "HTTP Tampering"
 ---
 # HTTP Request
 #### CuRL

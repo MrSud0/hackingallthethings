@@ -4,4 +4,4 @@
   pre: "<b>6. </b>"
   chapter: true
 ---
-blabla
+This section focuses on evasion and anonymity.

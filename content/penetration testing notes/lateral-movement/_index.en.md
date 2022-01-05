@@ -4,4 +4,4 @@
   pre: "<b>5. </b>"
   chapter: true
 ---
-blabla
+Tools and techniques that allow pivoting through a network infrastracture.

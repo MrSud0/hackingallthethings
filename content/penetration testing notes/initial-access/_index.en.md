@@ -4,4 +4,4 @@
   pre: "<b>2. </b>"
   chapter: true
 ---
-blabla
+Tools and techniques that allow initial access on a target asset.

@@ -4,4 +4,4 @@
   pre: "<b>1. </b>"
   chapter: true
 ---
-blabla
+Technical notes categorized based on the different phases of a penetration testing assessment.

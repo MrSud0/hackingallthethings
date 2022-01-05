@@ -4,4 +4,4 @@
   pre: "<b>3. </b>"
   chapter: true
 ---
-blabla
+Tool and techniques that allow persistent access to target asset.

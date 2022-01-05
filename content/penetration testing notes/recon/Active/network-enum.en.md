@@ -3,11 +3,8 @@
 ---
 This section focuses on Host Discovery and Port Scanning.
 
-# Fundamental
-Fundamental tools to check if a host /+ port is available.
-
-
-
+# Intro
+# Techniques
 
 
 # Host Discovery
@@ -61,3 +58,5 @@ Listen mode
 
 ### NMap
 ### Telnet
+
+# Resources

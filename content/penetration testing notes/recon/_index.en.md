@@ -4,4 +4,4 @@
   pre: "<b>1. </b>"
   chapter: true
 ---
-blabla
+Tools and techniques that allow passive and active information gathering against target asset/s.

@@ -4,4 +4,4 @@
   pre: "<b>4. </b>"
   chapter: true
 ---
-blabla
+Linux and Windows privilege escalation techniques and tools.
