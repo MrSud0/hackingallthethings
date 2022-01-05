@@ -1,6 +1,27 @@
 ---
   title: "HTTP"
 ---
+# Methodology
+
+- identify http port
+- identify services version
+- identify stack (wordpress, joumla etc.)
+- identify directories
+- identify subdomains
+- Look for common vulnerabilities and fileis
+-
+
+# Service discovery
+# Framework discovery
+# Common vulnerabilities discovery
+# Directory discovery
+# Subdomain discovery
+# Username discovery
+#### ffuf
+`ffuf -w /usr/share/wordlists/SecLists/Usernames/Names/names.txt -X POST -d "username=FUZZ&email=x&password=x&cpassword=x" -H "Content-Type: application/x-www-form-urlencoded" -u http://10.10.93.83/customers/signup -mr "username already exists"`
+
+# HTTPS
+
 nikto -host
 
 Port and service scanning
@@ -17,11 +38,6 @@ gobuster dir -u http://10.10.11.100/ -w /usr/share/wordlists/dirbuster/directory
 dirb http://192.168.120.62:8000
 
 
-HTTP Methodology
-
-- identify http port
-- identify services version
-- identify stack (wordpress, joumla etc.)
 
 
 Check if web app is vulnerable to Server-Side Template Injection
