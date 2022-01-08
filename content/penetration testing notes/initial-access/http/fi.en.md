@@ -7,23 +7,23 @@
 
 # Local File Inclusion (LFI)
 ## Checklist
--Find an entry point that could be via GET, POST, COOKIE, or HTTP header values!
--Enter a valid input to see how the web server behaves.
--Enter invalid inputs, including special characters and common file names.
--Don't always trust what you supply in input forms is what you intended! Use either a -browser address bar or a tool such as Burpsuite.
--Look for errors while entering invalid input to disclose the current path of the web application; if there are no errors, then trial and error might be your best option.
--Understand the input validation and if there are any filters!
--Try the inject a valid entry to read sensitive files
--Check the source code (if available) for potentially vulnerable use of functions
+- Find an entry point that could be via GET, POST, COOKIE, or HTTP header values!
+- Enter a valid input to see how the web server behaves.
+- Enter invalid inputs, including special characters and common file names.
+- Don't always trust what you supply in input forms is what you intended! Use either a -browser address bar or a tool such as Burpsuite.
+- Look for errors while entering invalid input to disclose the current path of the web application; if there are no errors, then trial and error might be your best option.
+- Understand the input validation and if there are any filters!
+- Try the inject a valid entry to read sensitive files
+- Check the source code (if available) for potentially vulnerable use of functions
 ### PHP
 **Interesting functions**
--include
--require
--include_once 
--require_once 
+- include
+- require
+- include_once 
+- require_once 
 
 ## Techniques
--Bypass file type restriction for example, only .php files are allowed. Use null byte **%00 or 0x00** to disgard everything after it.(This is fixed on PHP 5.3.4 and up)
+- Bypass file type restriction for example, only .php files are allowed. Use null byte **%00 or 0x00** to disgard everything after it.(This is fixed on PHP 5.3.4 and up)
 `../../../../../etc/passwd%00`
 -Bypass keyword filtering. Use the null byte trick as above. Or the Directory trick
 at the end of the request use **/.**

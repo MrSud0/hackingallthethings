@@ -2,4 +2,4 @@
   title: "Cheat Sheets"
   description: "Cheat sheets yo"
 ---
-Passive recon...
+Cheats sheets for various security related topics..
