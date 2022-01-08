@@ -15,14 +15,14 @@
 - Understand the input validation and if there are any filters!
 - Try the inject a valid entry to read sensitive files
 - Check the source code (if available) for potentially vulnerable use of functions
-### PHP
+#### PHP
 **Interesting functions**
 - include
 - require
 - include_once 
 - require_once 
 
-## Techniques
+### Techniques
 - Bypass file type restriction for example, only .php files are allowed. Use null byte **%00 or 0x00** to disgard everything after it.(This is fixed on PHP 5.3.4 and up)
 `../../../../../etc/passwd%00`
 - Bypass keyword filtering. Use the null byte trick as above. Or the Directory trick
@@ -31,27 +31,27 @@ at the end of the request use **/.**
 try **....//** instead of **../**.
 - Bypass force read from a specific directory. Simply put the directory name before the **DIR/../**
 
-# Path/Directory Traversal
+## Path/Directory Traversal
 A vulneabiloity that allows an attacker to read OS resources (e.g, Files). The attacker exploits this vulnerability by manipulating and abusing the web application's URL to locate and access files or directories stored outside the application's root directory.
-## Checklist
-### PHP
+### Checklist
+#### PHP
 **Interesting functions**
 - User's input passed to fnction such as **file_get_contents** or similar.
-## Techniques
+### Techniques
 use '../' to traverse to sensitive folders, to make sure you are in the root directory plenty '../', you can only get as deep as the root directory.
 
-# Remote file inclusion
+## Remote file inclusion
 Inject a malicous URL in the application.
-## Checklist
-### PHP
+### Checklist
+#### PHP
 **Interesting functions**
 - allow_url_fopen is on
-## Techniques
+### Techniques
 - first test that you can upload a text file
 - then upload a php reverse shell and have an netcat listener on [TODO] (redirect to shells page and netcat utils)
 
-# Other resources
-## Interesting paths in Linux
+## Other resources
+### Interesting paths in Linux
 - /etc/issue
 - /etc/passwd
 - /etc/profile
@@ -70,11 +70,11 @@ Inject a malicous URL in the application.
 - /root/.ssh/id_rsa
 - /var/log/apache2/access.log
 
-##  Interesting paths in Windows
+###  Interesting paths in Windows
 - C:\boot.ini (file=../../../../boot.ini )
 
-## Remediation
-# Remediation (PHP)
+### Remediation
+## Remediation (PHP)
 - Keep system and services, including web application frameworks, updated with the latest version.
 - Turn off PHP errors to avoid leaking the path of the application and other potentially revealing information.
 - A Web Application Firewall (WAF) is a good option to help mitigate web application attacks.
@@ -84,5 +84,5 @@ Inject a malicous URL in the application.
 - Implement whitelisting for file names and locations as well as blacklisting.
 
 
-# Sources
+## Sources
 [tryhackme] https://tryhackme.com/room/fileinc
