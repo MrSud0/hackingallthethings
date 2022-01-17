@@ -14,7 +14,7 @@ Things that indicate a SSRF vulnerability.
 - Full Urls used in hidden fields of a form
 - Partial Urls used as part of a request's parameter
 - Url path used as part of request's parameter
-# Exploitation
+# Exploitation (TODO)
 - Modify request parameters
 - Modify request parameters using directory traversal to ignore certain portions of the request
 - Modify request parameter to ignore a portion of the request by appending **&x=**, this way we fool the server to think the remaining of the URL is the value of parameter X, for example:
