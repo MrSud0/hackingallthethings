@@ -42,7 +42,8 @@ gobuster dir -u http://10.10.11.100/ -w /usr/share/wordlists/dirbuster/directory
 
 dirb http://192.168.120.62:8000
 
-
+amqtt
+nmap -sV -Pn -n -T4 -p 5672 --script amqp-info <IP>
 
 
 Check if web app is vulnerable to Server-Side Template Injection

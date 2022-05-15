@@ -1,8 +1,7 @@
 ---
   title: "SMB"
 ---
-SMB TEST
-https://www.hackingarticles.in/a-little-guide-to-smb-enumeration/nmb
+SMB TEST https://www.hackingarticles.in/a-little-guide-to-smb-enumeration/nmb
 
 enumerate hostnames
 `nmblookup -A 192.168.1.17`
